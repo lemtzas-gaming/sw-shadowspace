@@ -18,32 +18,41 @@ Humans have a thing... Nothing is ever quite good enough. Not even their own gen
 
 For the Dependency weakness, you may chose any *two* of these:
 
-* (Semi-aquatic) Enhanced Lungs
-* (Charisma) Pheromones
-* (Environmental Resistance) Radiation, Low Oxygen, Heat, Cold
-* (Immune to Disease) Perfect Health
-* (Keen Sense) Perfect Vision
-* (Keen Sense) Perfect Hearing
-* (Low Light Vision) Cat Eyes
-* (Pace) Enhanced Stamina
-* (Parry) Enhanced Intuition
-* (Power Points) Mind Strengthened against psionics. Can be taken twice.
-* (Sleep Reduction) The brain has been made to constantly dream. Can be taken twice.
-* (Toughness) The body has been made to secrete pain relievers.
+* **(Semi-aquatic)** Enhanced Lungs
+* **(Charisma)** Pheromones
+* **(Environmental Resistance)** Radiation, Low Oxygen, Heat, Cold
+* **(Immune to Disease)** Perfect Health
+* **(Keen Sense)** Perfect Vision
+* **(Keen Sense)** Perfect Hearing
+* **(Low Light Vision)** Cat Eyes
+* **(Pace)** Enhanced Stamina
+* **(Parry)** Enhanced Intuition
+* **(Power Points)** Mind Strengthened against psionics. Can be taken twice.
+* **(Sleep Reduction)** The brain has been made to constantly dream. Can be taken twice.
+* **(Toughness)** The body has been made to secrete pain relievers.
 
 For the Dependency weakness, you may choose any *one* of these:
 
-* (Attribute Increase) Physical Enhancement
-* (Poisonous Touch) Nail beds secrete a poison.
-* (Regeneration) Sold as a variation on Perfect Health.
-* (Edge) Discuss with the DM
+* **(Attribute Increase)** Physical Enhancement
+* **(Poisonous Touch)** Nail beds secrete a poison.
+* **(Regeneration)** Sold as a variation on Perfect Health.
+* **(Edge)** Discuss with the DM
 
 These alterations are reliable and may be taken in pairs:
 
-* Environmental Resistance, Cold + Environmental Weakness, Heat
-* Environmental Resistance, Heat + Environmental Weakness, Cold
-* Poor Parry + Sleep Reduction
-* Poor Parry + Toughness
+* **Environmental Resistance**, Cold + **Environmental Weakness**, Heat
+* **Environmental Resistance**, Heat + **Environmental Weakness**, Cold
+* **Poor Parry** + **Sleep Reduction**
+* **Poor Parry** + **Toughness**
 * Discuss others with the DM.
 
-### Scurbs
+### Insectoids
+
+Insectoids are incredibly varied and often unidentifiable beyond being "bug-like" to those without specific knowledge. They seem to get along well-enough with each other, though.
+
+#### Racial Features
+
+* Armor (+4) - Exoskeleton
+* Cannot Speak - Insectoids speak through some combination of pheromones and clicking.
+* Natural Weaponry - Pincers, Mandibles, Claws, etc (Str+d6, AP 2)
+* Outsider (Minor) - Everything they do is strange to non-insectoid cultures.
