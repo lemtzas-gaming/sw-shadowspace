@@ -52,7 +52,24 @@ Insectoids are incredibly varied and often unidentifiable beyond being "bug-like
 
 #### Racial Features
 
-* Armor (+4) - Exoskeleton
-* Cannot Speak - Insectoids speak through some combination of pheromones and clicking.
-* Natural Weaponry - Pincers, Mandibles, Claws, etc (Str+d6, AP 2)
-* Outsider (Minor) - Everything they do is strange to non-insectoid cultures.
+* **Armor +4** - Exoskeleton
+* **Cannot Speak** - Insectoids speak through some combination of pheromones and clicking.
+* **Natural Weaponry** - Pincers, Mandibles, Claws, etc (Str+d6, AP 2)
+* **Outsider (Minor)** - Everything they do is strange to non-insectoid cultures.
+
+### Gorgons
+
+"Gorgons", for lack of a more original name yet, are separated into two sub-races (choose one or leave as is):
+
+The genetically altered "Glyxens". They are humanoid in appearance, except for the hair-like appendages from their cold-blooded origins. These creatures vary in appearance, some are covered in scales while others have normal human skin, and some Glyxen's manes actually end in serpentine heads. Glyxen are typically vain and mean-spirited, or outright cruel.
+
+The original species are the Hess. From the torso up a Hess is deceptively delicate in appearance, their rigid flesh hides a dense muscular frame. Their fingers are clawed, their faces are narrow and jut outward in a slight snout, which is fixed in a bland expression. Their lower jaw has the same mechanics as all other snakes. The Hess, too, have a mane of serpentine appendages. Hess are intelligent, but vicious and domineering. Below their torso, the rest of their body ends in a long tail. They can become quite large. A Gorgon's mane slowly, but continuously grows as they age, in both sub species.
+
+
+#### Racial Features
+
+* **Keen Sense** - Sensitive to vibrations in the air.
+* **Infravision**
+* **Parry +1** - Sensitive to vibrations in the air.
+* **Armor +1** - Covered in scales.
+* **Environmental Weakness: Cold, Heat** - Gorgons are truly cold-blooded creatures.
