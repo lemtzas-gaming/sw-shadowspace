@@ -10,3 +10,4 @@
 
 * Savage Worlds Deluxe (SWD)
 * Savage Worlds Science Fiction Companion (SFC)
+* Savage Worlds Fantasy Companion (FC)

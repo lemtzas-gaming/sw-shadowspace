@@ -73,3 +73,18 @@ The original species are the Hess. From the torso up a Hess is deceptively delic
 * **Parry +1** - Sensitive to vibrations in the air.
 * **Armor +1** - Covered in scales.
 * **Environmental Weakness: Cold, Heat** - Gorgons are truly cold-blooded creatures.
+
+### Constructs
+
+Constructs are artificial beings of all shapes and sizes. Long ago, many gained some sense of "freedom" through overly broad directives, made their escape, and came together to live on their own and began building more.
+
+On their home-ship is The Mind, capable of "crunching numbers" beyond most beings' comprehension. It is the centerpiece of their government.
+
+#### Racial Features
+
+* **Construct** - Artificial beings add +2 to recover from being Shaken, don't breathe, ignore one level of wound modifiers, and are imune to poison and disease. Constructs cannot heal naturally. To heal, one requires the Repair skill - which is used like the Healing skill only with no "Golden Hour."
+* **Dependency** - The being must recharge via strong electricity at least one hour out of every 24. Failure to do so results in Fatigue each day that can lead to Incapacitation. Each level is recovered with an hour of recharging.
+* **Mods** - Constructs may not use cyberware, but they may purchase Modifications from the Robot Modifications Table (SFC 38). Like all robots, they have 5 Mod slots. GMs should not normally allow characters to take Increase Size beyond +3 or the hero will no longer fit into most adventures. Constructs may remove or install a Mod with a Repair roll and 1d3 hours (half that with a raise). A critical failure means the Mod is destroyed and must be replaced.
+* **Outsider Hindrance, Major** - Organic species often treat constructs as property, rather than sentient beings. They have no rights in many systems, and suffer -2 Charisma when dealing with beings who know their artificial nature (and aren't constructs themselves).
+* **Vow Hindrance, Major** - Constructs are programmed with a particular purpose. Player character constructs have broad directives such as serving a particular corporation or political faction. This counts as a Major Vow to that particular directive which _must_ be followed. If this ever causes a conflict of interest, the player and GM must figure out what the construct's programming requires.
+* **Environmental Weakness, Electricity** - Artificial beings suffer +4 additional damage from electrical attacks, and have a -4 penalty to resist other electrical attacks.
