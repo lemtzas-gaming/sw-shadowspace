@@ -14,7 +14,14 @@ Entries with a 'e' beside them are electrical powers and have the appropriate tr
 # Trappings:
 
 * **Force:**
-  * 
+  * Standard power. Carried out by invisible force.
+* **Mental:**
+  * Operates by influencing or invading the mind of the target.
+  * Completely ignores armor.
+* **Electric:**
+  * Operates through the generation of current and magnetic eddies.
+  * +4 damage against robots (Environmental Weakness, Electricity)
+  * Conduction: When the target is carrying more than 10lbs of conductive metal, contacting a source of water, or touching a conductive object, reduce the damage by one die type and add an extra die. (3d6 becomes 4d4)
 
 | Available Power          |       |                   |
 |--------------------------|-------|-------------------|
